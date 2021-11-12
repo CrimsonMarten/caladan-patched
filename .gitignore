@@ -1,8 +1,0 @@
-*.d
-*.o
-*.a
-[._]*.sw[a-p]
-iokerneld
-*~
-.cproject
-.project
