@@ -149,7 +149,7 @@ void RunExperiment(
   for (auto &t : th) t.Join();
 
   // Close the connections.
-  for (auto &c : conns) c->Shutdown();
+//  for (auto &c : conns) c->Shutdown();
 
 }
 
